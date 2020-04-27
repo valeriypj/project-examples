@@ -1,2 +1,2 @@
-FROM hello-world:latest
+FROM mysql:latest
 RUN echo "hello"
